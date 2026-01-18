@@ -15,7 +15,11 @@ Supports:
 
 ## 🛠 Usage
 1. Clone this repository:
-   ```bash
+    ```bash
    git clone https://github.com/USERNAME/PowerShell-Recursive-Downloader.git
+3. Replace  with your encoded base URL (e.g. ).
+2. 	Adjust  if you only want certain file types.
+3. 	Run:
   ~~~run
    .\Recursive Downloader.ps1
+
