@@ -1,4 +1,4 @@
-# Base URL
+# Base URL (replace with your encoded URL)
 $baseUrl = "YOUR URL"
 
 # Local folder to save files
