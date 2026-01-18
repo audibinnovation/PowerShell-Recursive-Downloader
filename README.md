@@ -18,4 +18,4 @@ Supports:
    ```bash
    git clone https://github.com/USERNAME/PowerShell-Recursive-Downloader.git
   ~~~run
-   .\d.ps1
+   .\Recursive Downloader.ps1
